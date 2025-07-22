@@ -26,9 +26,6 @@
             then-layer = <ADJUST>;
         };
     };
-    &soft_off {
-       hold-time-ms = <5000>; // Example: 5 seconds
-    };
 
     keymap {
         compatible = "zmk,keymap";
