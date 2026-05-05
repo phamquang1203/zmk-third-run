@@ -15,10 +15,6 @@
 #define RAISE 2
 #define ADJUST 3
 
-&led_strip {
-    chain-length = <30>; 
-};
-
 / {
     conditional_layers {
         compatible = "zmk,conditional-layers";
