@@ -19,7 +19,7 @@
     chain-length = <30>; // Change '30' to the total number of LEDs on your Sofle
 };
 
-&studio_unlock
+&studio_unlock;
 
 / {
     // Activate ADJUST layer by pressing raise and lower
